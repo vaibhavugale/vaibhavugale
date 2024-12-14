@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on redwoodjs <br>
+🔭 I’m currently working on react native <br>
 
 
 ## 🌐 Socials:
