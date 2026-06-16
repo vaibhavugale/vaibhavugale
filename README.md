@@ -20,7 +20,7 @@ I care about performance, clean architecture, and making complex requirements fe
 
 - 🔭 Currently working on: **Gold Tokenization** & **EUDR Land Mapping** platforms
 - 🌱 Exploring: **Web3**, **WebAuthn / Passkeys**, **Geospatial algorithms**
-- 🏙️ Based in **Pune, India**
+- 🏙️ Based in **Mumbai, India**
 
 ---
 
